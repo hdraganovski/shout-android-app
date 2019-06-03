@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+                android:id="@+id/nav1"
+                android:icon="@drawable/ic_round_menu"
+                android:title="Three"  />
+        <item
+                android:id="@+id/nav2"
+                android:icon="@drawable/ic_round_menu"
+                android:title="Three"  />
+        <item
+                android:id="@+id/nav3"
+                android:icon="@drawable/ic_round_menu"
+                android:title="Three" />
+        <item
+                android:id="@+id/nav4"
+                android:icon="@drawable/ic_round_menu"
+                android:title="Three"  />
+        <item
+                android:id="@+id/nav5"
+                android:icon="@drawable/ic_round_menu"
+                android:title="Three"  />
+        <item
+                android:id="@+id/nav7"
+                android:icon="@drawable/ic_round_menu"
+                android:title="Three" />
+        <item
+                android:id="@+id/nav8"
+                android:icon="@drawable/ic_round_menu"
+                android:title="Three"  />
+        <item
+                android:id="@+id/nav9"
+                android:icon="@drawable/ic_round_menu"
+                android:title="Three"  />
+        <item
+                android:id="@+id/nav10"
+                android:icon="@drawable/ic_round_menu"
+                android:title="Three" />
+    </group>
+
+</menu>

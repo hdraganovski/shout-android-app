@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            app:showAsAction="always"
+            android:id="@+id/action_refresh"
+            android:icon="@drawable/ic_round_refresh"
+            android:title="Refresh"  />
+
+    <item
+            app:showAsAction="always"
+            android:id="@+id/action_list_view"
+            android:icon="@drawable/ic_round_list"
+            android:title="List View"  />
+
+
+</menu>
